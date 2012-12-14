@@ -1,4 +1,4 @@
----layout : postcategory : managetags : [Linux, Kernel]title : Linux Kernel 结构---[思维导图文件下载](#)# 进程调度
+---layout : postcategory : managetags : [Linux, Kernel]title : Linux Kernel 结构---[思维导图文件下载](#)# 进程调度
 
 - 控制进程对CPU的访问
 
