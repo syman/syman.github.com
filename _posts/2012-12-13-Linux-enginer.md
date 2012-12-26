@@ -1,13 +1,8 @@
----
-
-layout : post
-
-category : manage
-
-tags : [Linux]
-
-title : 运维工程师学习进阶思路
-
+---
+layout : post
+category : manage
+tags : [Linux]
+title : 运维工程师学习进阶思路
 ---
 
 [思维导图文件下载](#)
