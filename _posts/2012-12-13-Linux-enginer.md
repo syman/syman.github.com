@@ -1,10 +1,10 @@
----
-layout : post
-category : manage
-tags : [Linux]
-title : 运维工程师学习进阶思路
----
-[思维导图文件下载](#)
+---
+layout : post
+category : manage
+tags : [Linux]
+title : 运维工程师学习进阶思路
+---
+[思维导图文件下载](#)
 # 初级运维(3-5K)
 - Linux/Windows 系统入门
 - Linux/Windows 系统安装
