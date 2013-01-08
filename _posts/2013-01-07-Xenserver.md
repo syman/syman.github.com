@@ -2,7 +2,7 @@
 layout : post
 category : manage
 tags : [VM]
-title : Xenserver 单网络接口实现发布虚拟机
+title : Xenserver 单网口实现发布虚拟机
     
     Xenserver的主要工作接口
 
@@ -27,7 +27,7 @@ title : Xenserver 单网络接口实现发布虚拟机
         
         虚拟交换机
 
-# 如何利用Xenserver 单网络接口实现发布虚拟机
+# 如何利用Xenserver 单网口实现发布虚拟机
 
         在IDC机房，大家都知道，如果仅是在一台服务器托管的情况下，那么IDC运营商只会提供一根网线和一个IP，那么
         
