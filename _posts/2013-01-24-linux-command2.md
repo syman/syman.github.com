@@ -5,7 +5,9 @@ tags : [Linux]
 title : Linux Shell 常用小技巧
 ---
 [思维导图文件下载](#)
-###
+
+
+
 ### 1.按内存从大到小排列进程:  
 	
 	ps -eo "%C : %p : %z : %a"|sort -k5 -nr
