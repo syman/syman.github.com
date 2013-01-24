@@ -1,7 +1,7 @@
 ---
 layout : post
 category : manage
-tags : [VM]
+tags : [Linux]
 title : 开发人员必须知道的Linux 命令
 ---
 [思维导图文件下载](#)
