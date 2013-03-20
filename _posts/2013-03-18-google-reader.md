@@ -6,15 +6,15 @@ title : Google Reader之外 还有这些RSS订阅服务
 ---
 ### Google Reader之外 还有这些RSS订阅服务
 
-　	Google在其官方博客上公布了最新的“春季大扫除(Spring Cleaning)”名单，8项服务将被关闭，其中就包括很受欢迎的RSS订阅服务Google Reader。
-
-　　广大用户在倍感震惊的同时也急于寻找合适的替代产品，这里，小编就给大家推荐几个。
+	Google在其官方博客上公布了最新的“春季大扫除(Spring Cleaning)”名单，8项服务将被关闭，其中就包括很受欢迎的RSS订阅服务Google Reader。
+	
+	广大用户在倍感震惊的同时也急于寻找合适的替代产品，这里，小编就给大家推荐几个。
 
 #### Feedly
 
-　　首推Feedly，它能够同步GR的数据，实现最低成本迁移;同时提供免费的web端(Chrome/Firefox)和移动端服务(iOS/Android)，且具有稍后阅读功能。
-
-　　目前，Feedly官方表示正在着手加强网站服务器，以应对从GR转移过来的大量数据。
+	首推Feedly，它能够同步GR的数据，实现最低成本迁移;同时提供免费的web端(Chrome/Firefox)和移动端服务(iOS/Android)，且具有稍后阅读功能。
+	
+	目前，Feedly官方表示正在着手加强网站服务器，以应对从GR转移过来的大量数据。
 
 #### Reeder
 
@@ -25,8 +25,7 @@ title : Google Reader之外 还有这些RSS订阅服务
 #### Flipboard
 
 	知名新闻和社交信息聚合App，同时支持iOS和Android设备，主要针对Facebook和Twitter等社交媒体上的信息进行整合，用户通过自定义可生成个性杂志。
-
-
+	
 ![Image text](http://www.yixieshi.com/uploads/allimg/130315/102Z4G32-3.png)
 
 #### Backstitch
