@@ -36,9 +36,9 @@ title : Google Reader之外 还有这些RSS订阅服务
 
 #### NetNewsWire
 
-　　NetNewsWire可以将网络上的RSS内容下载到本地;具备智能列表功能，能针对特殊的作者和内容对RSS进行排序;如需稍后阅读，可直接点击收藏，或将内容同步到Instapaper。
-
-　　NetNewsWire目前仅支持iOS设备。
+	NetNewsWire可以将网络上的RSS内容下载到本地;具备智能列表功能，能针对特殊的作者和内容对RSS进行排序;如需稍后阅读，可直接点击收藏，或将内容同步到Instapaper。
+	
+	NetNewsWire目前仅支持iOS设备。
 
 ![Image text](http://www.yixieshi.com/uploads/allimg/130315/102Z4BU-5.jpg)
 
